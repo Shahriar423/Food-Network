@@ -1,27 +1,40 @@
 body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0%;
+    font-family: 'Roboto Slab', serif;
+    margin: 0px;
 }
 h1{
-    
+    font-size: 50px;
+}
+p{
+    color: dimgrey;
 }
 .red{
     color: red;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .width-controll{
-    width: 60%;
+    width: 40%;
     padding-left: 2%;
+    margin-left: 3%;
+    float: left;
 }
 .width-controll img{
-    width: 70%;
+    width: 90%;
 }
 .L-button{
     text-decoration: none;
-    background-image: linear-gradient(maroon, tomato);
-    padding: 10px 30px;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 44px;
     color:white;
     font-weight: 800;
+    border-radius: 40px;
+}
+.add-bg{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+   background-position: center;
+   
 }

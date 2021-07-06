@@ -36,5 +36,19 @@ section{
     background-image: url(7.png);
     background-repeat: no-repeat;
    background-position: center;
-   
+}
+.re-h{
+    text-align: center;
+    padding: 40px 60px;
+}
+#grad-a{
+    box-shadow: 10px 10px 20px 20px black;
+    padding: 10px;
+    border-radius: 14px;
+}
+#pic-pac{
+    padding: 10px;
+}
+.for-box{
+    padding: 10px;
 }

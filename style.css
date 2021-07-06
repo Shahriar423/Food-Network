@@ -52,3 +52,14 @@ section{
 .for-box{
     padding: 10px;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 35px;
+}
+.footer-header{
+    color: orange;
+}
+.net-c{
+    color:gray
+}
